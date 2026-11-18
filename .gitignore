@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Artefactos del modelo: se generan con el notebook (no se versionan)
+data/models/*.keras
+data/models/tokenizer.json
